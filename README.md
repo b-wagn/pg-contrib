@@ -22,7 +22,7 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
     * documentation and security proof [ethresearch](https://ethresear.ch/t/peerdas-documentation/20361), [paper](https://eprint.iacr.org/2024/1362.pdf)
 
 - Research on concrete security of BLS signatures in PoS
-    * [Paper](https://eprint.iacr.org/2024/1368)
+    * [Paper](https://eprint.iacr.org/2024/1368.pdf)
 
 - Research on random committee election
     * [Paper](https://eprint.iacr.org/2023/1570.pdf)
