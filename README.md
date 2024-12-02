@@ -1,4 +1,4 @@
-# Ethereum Specific Contributions
+# Contributions
 
 I work as a cryptography researcher at the cryptography team of the Ethereum Foundation.
 
