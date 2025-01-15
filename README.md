@@ -26,6 +26,11 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
 
 - Research on random committee election
     * [Paper](https://eprint.iacr.org/2023/1570.pdf)
+ 
+- Signatures for post-quantum Ethereum
+    * writing security proofs and prototypes for hash-based candidates
+    * [Paper](https://eprint.iacr.org/2025/055.pdf)
+    * [Code](https://github.com/b-wagn/hash-sig)
 
 ## Current Work
 
