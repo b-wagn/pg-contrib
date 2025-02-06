@@ -32,6 +32,10 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
     * [Paper](https://eprint.iacr.org/2025/055.pdf)
     * [Code](https://github.com/b-wagn/hash-sig)
 
+- zkFOCIL
+    * using linkable ring signatures for publishing inclusion lists using pseudynoms
+    * [Post](https://ethresear.ch/t/zkfocil-inclusion-list-privacy-using-linkable-ring-signatures/21688)
+
 ## Current Work
 
 - signatures for post-quantum Ethereum
