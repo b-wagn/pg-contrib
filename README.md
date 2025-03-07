@@ -33,7 +33,7 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
     * [Code](https://github.com/b-wagn/hash-sig)
 
 - zkFOCIL
-    * using linkable ring signatures for publishing inclusion lists using pseudynoms
+    * using linkable ring signatures for FOCIL
     * [Post](https://ethresear.ch/t/zkfocil-inclusion-list-privacy-using-linkable-ring-signatures/21688)
 
 ## Current Work
