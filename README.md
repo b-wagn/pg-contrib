@@ -14,7 +14,7 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
 - Research on data availability sampling
     * [Paper: Foundations of DAS](https://eprint.iacr.org/2023/1079.pdf)
     * [Paper: FRIDA: DAS from FRI](https://eprint.iacr.org/2024/248.pdf)
-
+ 
 - Cryptography in PeerDAS
     * helping with [cryptography spec](https://github.com/ethereum/consensus-specs/tree/dev/specs/_features/eip7594)
     * helping with [C implementation](https://github.com/ethereum/c-kzg-4844)
@@ -29,8 +29,7 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
  
 - Signatures for post-quantum Ethereum
     * writing security proofs and prototypes for hash-based candidates
-    * [Paper](https://eprint.iacr.org/2025/055.pdf)
-    * [Code](https://github.com/b-wagn/hash-sig)
+    * [Paper](https://eprint.iacr.org/2025/055.pdf) and [Code](https://github.com/b-wagn/hash-sig)
 
 - zkFOCIL
     * using linkable ring signatures for FOCIL
@@ -43,3 +42,4 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
     * exploring other candidates, e.g., lattice-based
 
 - provably secure p2p networking for data availability sampling
+    * [Paper](https://arxiv.org/pdf/2504.13757)
