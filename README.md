@@ -42,4 +42,4 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
     * exploring other candidates, e.g., lattice-based
 
 - provably secure p2p networking for data availability sampling
-    * [Paper](https://arxiv.org/pdf/2504.13757)
+    * [Paper](https://arxiv.org/pdf/2504.13757) and [Post](https://ethresear.ch/t/robust-distributed-arrays-probably-secure-networking-for-das/22328)
