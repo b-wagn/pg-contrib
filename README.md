@@ -14,6 +14,7 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
 - Research on data availability sampling
     * [Paper: Foundations of DAS](https://eprint.iacr.org/2023/1079.pdf)
     * [Paper: FRIDA: DAS from FRI](https://eprint.iacr.org/2024/248.pdf)
+    * [Post about 1D vs 2D DAS](https://ethresear.ch/t/revisiting-secure-das-in-one-and-two-dimensions/22762)
  
 - Cryptography in PeerDAS
     * helping with [cryptography spec](https://github.com/ethereum/consensus-specs/tree/dev/specs/_features/eip7594)
