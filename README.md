@@ -30,7 +30,7 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
  
 - Signatures for post-quantum Ethereum
     * writing security proofs and prototypes for hash-based candidates
-    * [Paper](https://eprint.iacr.org/2025/055.pdf) and [Code](https://github.com/b-wagn/hash-sig)
+    * [Paper](https://eprint.iacr.org/2025/055.pdf), [Follow-Up Paper](https://eprint.iacr.org/2025/889.pdf), [Another Follow-Up](https://eprint.iacr.org/2025/1332.pdf) and [Code](https://github.com/b-wagn/hash-sig)
 
 - zkFOCIL
     * using linkable ring signatures for FOCIL
