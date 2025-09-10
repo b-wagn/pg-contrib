@@ -2,12 +2,6 @@
 
 I work as a cryptography researcher at the cryptography team of the Ethereum Foundation.
 
-## Background
-
-- Bachelor's and Master's degree in computer science
-- PhD in cryptography, finished May 2024
-- Internship at the EF from January to March 2023
-- Joined the EF in June 2024
 
 ## Past Work
 
