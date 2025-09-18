@@ -14,7 +14,7 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
     * helping with [cryptography spec](https://github.com/ethereum/consensus-specs/tree/dev/specs/_features/eip7594)
     * helping with [C implementation](https://github.com/ethereum/c-kzg-4844)
     * reviewing [Rust implementation](https://github.com/crate-crypto/rust-eth-kzg)
-    * documentation and security proof [ethresearch](https://ethresear.ch/t/peerdas-documentation/20361), [paper](https://eprint.iacr.org/2024/1362.pdf)
+    * documentation and security proof [ethresearch](https://ethresear.ch/t/peerdas-documentation/20361), [paper](https://eprint.iacr.org/2024/1362.pdf), [improved analysis](https://eprint.iacr.org/2025/1683.pdf)
 
 - Research on concrete security of BLS signatures in PoS
     * [Paper](https://eprint.iacr.org/2024/1368.pdf)
