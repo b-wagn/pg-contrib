@@ -10,6 +10,9 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
     * [Paper: FRIDA: DAS from FRI](https://eprint.iacr.org/2024/248.pdf)
     * [Post about 1D vs 2D DAS](https://ethresear.ch/t/revisiting-secure-das-in-one-and-two-dimensions/22762)
  
+- Provably secure p2p networking for data availability sampling
+    * [Paper](https://arxiv.org/pdf/2504.13757) and [Post](https://ethresear.ch/t/robust-distributed-arrays-probably-secure-networking-for-das/22328)
+ 
 - Cryptography in PeerDAS
     * helping with [cryptography spec](https://github.com/ethereum/consensus-specs/tree/dev/specs/_features/eip7594)
     * helping with [C implementation](https://github.com/ethereum/c-kzg-4844)
@@ -24,17 +27,18 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
  
 - Signatures for post-quantum Ethereum
     * writing security proofs and prototypes for hash-based candidates
-    * [Paper](https://eprint.iacr.org/2025/055.pdf), [Follow-Up Paper](https://eprint.iacr.org/2025/889.pdf), [Another Follow-Up](https://eprint.iacr.org/2025/1332.pdf) and [Code](https://github.com/b-wagn/hash-sig)
+    * maintaining the [prototype / reference Rust implementation](https://github.com/b-wagn/hash-sig)
+    * [Paper](https://eprint.iacr.org/2025/055.pdf), [Follow-Up Paper](https://eprint.iacr.org/2025/889.pdf), [Another Follow-Up](https://eprint.iacr.org/2025/1332.pdf)
 
 - zkFOCIL
     * using linkable ring signatures for FOCIL
     * [Post](https://ethresear.ch/t/zkfocil-inclusion-list-privacy-using-linkable-ring-signatures/21688)
 
+ 
 ## Current Work
 
 - signatures for post-quantum Ethereum
     * writing security proofs and prototypes for hash-based candidates
     * exploring other candidates, e.g., lattice-based
 
-- provably secure p2p networking for data availability sampling
-    * [Paper](https://arxiv.org/pdf/2504.13757) and [Post](https://ethresear.ch/t/robust-distributed-arrays-probably-secure-networking-for-das/22328)
+- working on cryptographic foundations for zkEVMs, encrypted mempools, etc
