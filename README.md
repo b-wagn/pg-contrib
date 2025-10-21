@@ -25,6 +25,9 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
 - Research on random committee election
     * [Paper](https://eprint.iacr.org/2023/1570.pdf)
  
+- Research on threshold encryption and its use in encrypted mempool designs
+    * [Paper](https://eprint.iacr.org/2025/1384.pdf)
+ 
 - Signatures for post-quantum Ethereum
     * writing security proofs and prototypes for hash-based candidates
     * maintaining the [prototype / reference Rust implementation](https://github.com/b-wagn/hash-sig)
