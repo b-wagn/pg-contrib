@@ -26,7 +26,8 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
     * [Paper](https://eprint.iacr.org/2023/1570.pdf)
  
 - Research on threshold encryption and its use in encrypted mempool designs
-    * [Paper](https://eprint.iacr.org/2025/1384.pdf)
+    * [Paper about a new silent threshold encryption scheme with small keys](https://eprint.iacr.org/2025/1384.pdf) 
+    * [A new encrypted mempool design (hybrid encrypted mempools)](https://ethresear.ch/t/hybrid-encrypted-mempools/23360)
  
 - Signatures for post-quantum Ethereum
     * writing security proofs and prototypes for hash-based candidates
