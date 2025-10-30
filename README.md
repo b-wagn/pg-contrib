@@ -38,6 +38,8 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
     * using linkable ring signatures for FOCIL
     * [Post](https://ethresear.ch/t/zkfocil-inclusion-list-privacy-using-linkable-ring-signatures/21688)
 
+- Research on foundations for zkEVMs/zkVMs/STARKs
+    * [Simplified RBR soundness of FRI](https://eprint.iacr.org/2025/1993.pdf)
  
 ## Current Work
 
