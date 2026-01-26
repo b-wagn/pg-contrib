@@ -41,6 +41,7 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
 - Research on foundations and soundness of zkEVMs/zkVMs/STARKs
     * [Simplified RBR soundness of FRI](https://eprint.iacr.org/2025/1993.pdf)
     * [Work on soundcalc](https://github.com/ethereum/soundcalc)
+    * [Paper on Plonky3 security](https://eprint.iacr.org/2026/089.pdf)
  
 ## Current Work
 
