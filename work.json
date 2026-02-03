@@ -1,0 +1,128 @@
+[
+    {
+        "title": "Foundations of Data Availability Sampling",
+        "description": "",
+        "tags": ["Data Availability Sampling", "Paper"],
+        "url": "https://eprint.iacr.org/2023/1079.pdf",
+        "date": "2023-07-11"
+    },
+    {
+        "title": "FRIDA: DAS from FRI",
+        "description": "",
+        "tags": ["Data Availability Sampling", "Post-Quantum", "Paper"],
+        "url": "https://eprint.iacr.org/2024/248.pdf",
+        "date": "2024-02-15"
+    },
+    {
+        "title": "Post about 1D vs 2D DAS",
+        "description": "",
+        "tags": ["Data Availability Sampling", "PeerDAS", "Ethresearch Post"],
+        "url": "https://ethresear.ch/t/revisiting-secure-das-in-one-and-two-dimensions/22762",
+        "date": "2025-07-01"
+    },
+    {
+        "title": "Provably secure p2p networking for data availability sampling (paper)",
+        "description": "",
+        "tags": ["Data Availability Sampling", "P2P Networking", "Paper"],
+        "url": "https://arxiv.org/pdf/2504.13757",
+        "date": "2025-04-24"
+    },
+    {
+        "title": "Provably secure p2p networking for data availability sampling (post)",
+        "description": "",
+        "tags": ["Data Availability Sampling", "P2P Networking", "Ethresearch Post"],
+        "url": "https://ethresear.ch/t/robust-distributed-arrays-probably-secure-networking-for-das/22328",
+        "date": "2024-08-30"
+    },
+    {
+        "title": "PeerDAS Documentation and Security Analysis",
+        "description": "",
+        "tags": ["Data Availability Sampling", "PeerDAS", "Paper"],
+        "url": "https://eprint.iacr.org/2024/1362.pdf",
+        "date": "2024-08-29"
+    },
+    {
+        "title": "Improved PeerDAS Security Analysis",
+        "description": "",
+        "tags": ["Data Availability Sampling", "PeerDAS", "Paper"],
+        "url": "https://eprint.iacr.org/2025/1683.pdf",
+        "date": "2025-09-16"
+    },
+    {
+        "title": "Concrete Security of BLS Signatures in PoS",
+        "description": "",
+        "tags": ["BLS Signatures", "Tightness", "Proof of Stake", "Paper"],
+        "url": "https://eprint.iacr.org/2024/1368.pdf",
+        "date": "2024-08-30"
+    },
+    {
+        "title": "Jackpot for random committee election",
+        "description": "",
+        "tags": ["Proof of Stake", "Committee Election", "Paper"],
+        "url": "https://eprint.iacr.org/2023/1570.pdf",
+        "date": "2023-10-11"
+    },
+    {
+        "title": "New silent threshold encryption scheme with small keys",
+        "description": "",
+        "tags": ["Encrypted Mempools", "Threshold Encryption", "Paper"],
+        "url": "https://eprint.iacr.org/2025/1384.pdf",
+        "date": "2025-07-29"
+    },
+    {
+        "title": "Hybrid Encrypted Mempools",
+        "description": "",
+        "tags": ["Encrypted Mempools", "Ethresearch Post"],
+        "url": "https://ethresear.ch/t/hybrid-encrypted-mempools/23360",
+        "date": "2025-10-01"
+    },
+    {
+        "title": "Hash-Based Multi-Signatures for Post-Quantum Ethereum",
+        "description": "",
+        "tags": ["PQ", "Signatures", "PoS", "Consensus Layer", "Paper"],
+        "url": "https://eprint.iacr.org/2025/055.pdf",
+        "date": "2025-01-14"
+    },
+    {
+        "title": "At the Top of the Hypercube",
+        "description": "",
+        "tags": ["PQ", "Signatures", "PoS", "Consensus Layer", "Paper"],
+        "url": "https://eprint.iacr.org/2025/889.pdf",
+        "date": "2025-05-19"
+    },
+    {
+        "title": "LeanSig for Post-Quantum Ethereum",
+        "description": "",
+        "tags": ["PQ", "Signatures", "PoS", "Consensus Layer", "Paper"],
+        "url": "https://eprint.iacr.org/2025/1332.pdf",
+        "date": "2025-07-21"
+    },
+    {
+        "title": "Aborting Random Oracles",
+        "description": "",
+        "tags": ["PQ", "Signatures", "PoS", "Consensus Layer", "zkEVM", "Paper"],
+        "url": "https://eprint.iacr.org/2026/016.pdf",
+        "date": "2026-01-05"
+    },
+    {
+        "title": "zkFOCIL",
+        "description": "",
+        "tags": ["FOCIL", "Ring Signatures", "Ethresearch Post"],
+        "url": "https://ethresear.ch/t/zkfocil-inclusion-list-privacy-using-linkable-ring-signatures/21688",
+        "date": "2025-02-01"
+    },
+    {
+        "title": "Simplified RBR soundness of FRI",
+        "description": "",
+        "tags": ["zkEVM", "Paper"],
+        "url": "https://eprint.iacr.org/2025/1993.pdf",
+        "date": "2025-10-24"
+    },
+    {
+        "title": "Merkle Trees in Plonky3",
+        "description": "",
+        "tags": ["zkEVM", "Paper"],
+        "url": "https://eprint.iacr.org/2026/089.pdf",
+        "date": "2026-01-20"
+    }
+]
