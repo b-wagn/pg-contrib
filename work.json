@@ -124,5 +124,12 @@
         "tags": ["zkEVM", "Paper"],
         "url": "https://eprint.iacr.org/2026/089.pdf",
         "date": "2026-01-20"
+    },
+    {
+        "title": "Linearly-homomorphic signatures for RLNC",
+        "description": "",
+        "tags": ["networking", "Ethresearch Post"],
+        "url": "https://ethresear.ch/t/linearly-homomorphic-signatures-for-rlnc/24072",
+        "date": "2026-02-06"
     }
 ]
