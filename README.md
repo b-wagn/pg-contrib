@@ -43,10 +43,9 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
     * [Work on soundcalc](https://github.com/ethereum/soundcalc)
     * [Paper on Plonky3 security](https://eprint.iacr.org/2026/089.pdf)
  
+- Research on cryptography for networking
+    * [Linearly homomorphic signatures for RLNC](https://ethresear.ch/t/linearly-homomorphic-signatures-for-rlnc/24072)
+ 
 ## Current Work
 
-- signatures for post-quantum Ethereum
-    * writing security proofs and prototypes for hash-based candidates
-    * exploring other candidates, e.g., lattice-based
-
-- working on cryptographic foundations for zkEVMs, encrypted mempools, etc
+- working on cryptographic foundations for zkEVMs, encrypted mempools, post-quantum Ethereum, etc
