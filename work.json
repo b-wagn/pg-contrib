@@ -131,5 +131,12 @@
         "tags": ["networking", "Ethresearch Post"],
         "url": "https://ethresear.ch/t/linearly-homomorphic-signatures-for-rlnc/24072",
         "date": "2026-02-06"
+    },
+    {
+        "title": "Revisiting Falcon signature aggregation for PQ mempools",
+        "description": "",
+        "tags": ["PQ", "Signatures", "Mempools", "Ethresearch Post"],
+        "url": "https://ethresear.ch/t/revisiting-falcon-signature-aggregation-for-pq-mempools/24431"
+        "date": "2026-03-18"
     }
 ]
