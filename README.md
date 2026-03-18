@@ -33,6 +33,7 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
     * writing security proofs and prototypes for hash-based candidates
     * maintaining the [prototype / reference Rust implementation](https://github.com/b-wagn/hash-sig)
     * [Paper](https://eprint.iacr.org/2025/055.pdf), [Follow-Up Paper](https://eprint.iacr.org/2025/889.pdf), [Another Follow-Up](https://eprint.iacr.org/2025/1332.pdf), [Aborting RO paper](https://eprint.iacr.org/2026/016.pdf)
+    * [Post about Falcon and aggregation on the execution layer](https://ethresear.ch/t/revisiting-falcon-signature-aggregation-for-pq-mempools/24431)
 
 - zkFOCIL
     * using linkable ring signatures for FOCIL
