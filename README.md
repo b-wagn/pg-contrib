@@ -7,7 +7,7 @@ I work as a cryptography researcher at the cryptography team of the Ethereum Fou
 
 - Research on data availability sampling
     * [Paper: Foundations of DAS](https://eprint.iacr.org/2023/1079.pdf)
-    * [Paper: FRIDA: DAS from FRI](https://eprint.iacr.org/2024/248.pdf)
+    * [Paper: FRIDA: DAS from FRI](https://eprint.iacr.org/2024/248.pdf), [Extension paper](https://eprint.iacr.org/2026/1055.pdf)
     * [Post about 1D vs 2D DAS](https://ethresear.ch/t/revisiting-secure-das-in-one-and-two-dimensions/22762)
  
 - Provably secure p2p networking for data availability sampling
