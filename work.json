@@ -14,6 +14,13 @@
         "date": "2024-02-15"
     },
     {
+        "title": "Extending FRIDA Beyond Unique Decoding for Free",
+        "description": "",
+        "tags": ["Data Availability Sampling", "Post-Quantum", "Paper"],
+        "url": "https://eprint.iacr.org/2026/1055.pdf",
+        "date": "2026-05-26"
+    },
+    {
         "title": "Post about 1D vs 2D DAS",
         "description": "",
         "tags": ["Data Availability Sampling", "PeerDAS", "Ethresearch Post"],
